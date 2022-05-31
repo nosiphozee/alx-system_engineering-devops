@@ -1,2 +1,3 @@
 #!/bin/bash
 BEST School="Betty"
+export BEST School="Betty"
